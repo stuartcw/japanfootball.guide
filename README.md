@@ -23,3 +23,11 @@ There may be some words used which are in Japanese they will be listed in the Te
 For suggestions or questions about this site contact:
 
 {% embed url="https://mastodon.social/@stuartcw" %}
+@stuartcw@mastodon.social
+{% endembed %}
+
+
+
+{% embed url="https://github.com/stuartcw/japanfootball.guide/issues/new" %}
+Report Issue or suggestions here.
+{% endembed %}

@@ -20,3 +20,4 @@
   * [Stadiums D](appendix\_-\_stadiums/stadiums\_d.md)
   * [Stadiums E](appendix\_-\_stadiums/stadiums\_e.md)
 * [Ideas for Future Chapters](ideas-for-future-chapters.md)
+* [Report Issues or suggestions about this document.](https://github.com/stuartcw/japanfootball.guide/issues/new)
