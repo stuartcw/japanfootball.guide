@@ -22,4 +22,4 @@ There may be some words used which are in Japanese they will be listed in the Te
 
 For suggestions or questions about this site contact:
 
-[Stuart Woodward](https://app.gitbook.com/u/57673e356b5103100095ba25 "mention")
+[](https://app.gitbook.com/o/KQhQegnuhaepQK2Al7sb/s/Whst6zHmLkZquO38p7ea/ "mention")[mailto:info@japanfootball.guid](mailto:info@japanfootball.guide)e
