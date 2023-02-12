@@ -26,6 +26,8 @@ For suggestions or questions about this site contact:
 @stuartcw@mastodon.social
 {% endembed %}
 
+Report any issues or suggestions here:
+
 
 
 {% embed url="https://github.com/stuartcw/japanfootball.guide/issues/new" %}
