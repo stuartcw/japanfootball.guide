@@ -22,4 +22,4 @@ There may be some words used which are in Japanese they will be listed in the Te
 
 For suggestions or questions about this site contact:
 
-Email “info” at this domain.
+{% embed url="https://mastodon.social/@stuartcw" %}
