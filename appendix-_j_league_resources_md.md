@@ -8,11 +8,15 @@
 
 ## Twitter and Social Media
 
+* [JScoccer.com](https://www.facebook.com/groups/JSoccer/?ref=share)'s Facebook group. 
+
 ## Uniform Forums
 
 ## Newspaper
 
 ## Web Resources
+
+[JSoccer.com](http://www.jsoccer.com/) Home of the JSoccer Magazine print magazine. 
 
 ### Japanese-English Glossaries
 
