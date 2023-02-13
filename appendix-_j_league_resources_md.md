@@ -12,7 +12,9 @@
 
 ## Uniform Forums
 
-## Newspaper
+## Newspapers
+
+[The Japan Times](https://www.japantimes.co.jp/sports/j-league/)
 
 ## Web Resources
 
