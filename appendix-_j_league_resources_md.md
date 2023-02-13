@@ -2,6 +2,8 @@
 
 ## Podcasts
 
+[J-Talk Podcast](https://jtalkpod.podbean.com/) A weekly Japanese football podcast focusing on the J.League.
+
 ## Print Media
 
 ## Twitter and Social Media
