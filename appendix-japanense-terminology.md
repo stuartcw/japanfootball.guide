@@ -8,7 +8,7 @@ See also the 英和サッカー用語集（English-Japanese Soccer Glossary） [
 
 ## G
 
-* Gate Flag
+* Gate Flag.ゲーフラ A square flag created by a supporter and held up by two poles. Mostly supporting an individual player. Sometimes amusing or nicely designed.
 
 ## J
 
