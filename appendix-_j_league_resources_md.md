@@ -18,6 +18,9 @@
 
 ## Uniform Forums
 
+[Japanese Soccer Shirts](https://www.facebook.com/groups/JapaneseFootballShirts/?ref=share) Facebook Group.
+
+
 ## Newspapers
 
 [The Japan Times](https://www.japantimes.co.jp/sports/j-league/)
