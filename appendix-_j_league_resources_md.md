@@ -3,6 +3,7 @@
 ## Official Sites
 
 * [JFA English language site](https://www.jfa.jp/eng/)
+    * [English News](https://www.jfa.jp/eng/news/)
 
 
 ## Podcasts
