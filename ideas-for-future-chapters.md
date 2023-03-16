@@ -15,13 +15,10 @@ If you have an interest in any of these topics please let me know. Some of these
   * Historic incidents in Japanese National Team History
   * Getting Tickets For Japan International Team Matches Lining for a National Team Match
 * Well known people in Japanese Football Culture
-* How to make flags, tshirts and other supporter goods.
+* How to make flags, t-shirts and other supporter goods.
 * J-League Tourism
   * J-League museum
 * J-League Memes
-* Well known incidents in Japanese football history
-  * The "JAPANESE ONLY" incident.
-  * Various trouble.
 * EPL and other league supporters in Japan.
   * Tokyo Celtic Supporters Group
   *   There are football fans who do not follow J-League but are fanatical fans of international football.
