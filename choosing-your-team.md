@@ -14,9 +14,9 @@ If you are living in Japan and support your local team, it is a good opportunity
 
 #### Hometown
 
-Every team has an official "hometown". This may not exactly correspond to the team's name or stadium location i.e. Gamba Osaka's hometown is Suita City, Osaka whereas Cerezo Osaka is based in Sakai City, Osaka. Yokohama F. Marinos's hometown is Yokohama City, neighbouring Yokosuka City and Yamato and FC Tokyo's hometown activities are based around the stadium in Chofu rather than in central Tokyo.
+Every team has an official "hometown". This may not exactly correspond to the team's name or stadium location i.e. Gamba Osaka's hometown is Suita City, Osaka whereas Cerezo Osaka is based in Sakai City, Osaka. Yokohama F. Marinos' hometown is Yokohama City, neighbouring Yokosuka City and Yamato City. FC Tokyo's hometown activities are mainly based around the stadium in Chofu rather than in central Tokyo.
 
-The team's hometown is prominently displayed on the player's shirt sleeves. In the hometown, you can see posters for the team in the local shops, nearby stations and in the streets. Large shopping areas are often decorated with the team’s flags attached to the lamposts and there are often team branded vending machines to be found in the street near the stadium.
+The team's hometown is prominently displayed on the player's shirt sleeves. In the hometown, you can see posters for the team in the local shops, nearby stations and in the streets. Large shopping areas are often decorated with the team’s flags attached to the lampposts and there are often team branded vending machines to be found in the street near the stadium.
 
 In some densely populated areas, you'll have a choice of several nearby teams but if you are located in a more remote area there may only be one logical choice. But hey, since when have football fans ever made logical choices?
 
