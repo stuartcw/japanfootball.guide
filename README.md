@@ -33,3 +33,5 @@ Report any issues or suggestions here:
 {% embed url="https://github.com/stuartcw/japanfootball.guide/issues/new" %}
 Report Issue or suggestions here.
 {% endembed %}
+
+Or by email to "info" at this domain.
