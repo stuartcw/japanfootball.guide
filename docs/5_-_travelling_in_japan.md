@@ -1,9 +1,3 @@
----
-description: >-
-  This chapter covers how to get around Japan to watch football as visitor or
-  regular fan.
----
-
 # Travelling In Japan
 
 ## Planning a flying visit

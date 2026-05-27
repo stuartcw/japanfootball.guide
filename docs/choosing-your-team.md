@@ -1,7 +1,3 @@
----
-description: Guidlines on choosing a Japanese team to support
----
-
 # Choosing Your Team
 
 If you haven't done so already, you may want to choose a team so I'll run through some of the options. If you have already decided you can skip this chapter.
@@ -54,7 +50,7 @@ A good way to catch up about the history and culture of J-League teams is to rea
 
 Another way is to find out when a fan of that club has been on the JTalk Podcast and listen to the episodes that they appeared in. There are often a lot of references to club history and trivia mentioned in the course of the discussion.
 
-Many clubs have a fan run Twitter account that posts up translations of club tweets and news. See the [J-League Resources Appendix](appendix-\_j\_league\_resources\_md.md) for details.
+Many clubs have a fan run Twitter account that posts up translations of club tweets and news. See the [J-League Resources Appendix](appendix-_j_league_resources_md.md) for details.
 
 The most comprehensive information is in Japanese. Trying to figure out the club announcements is a good way to practise Japanese reading skills and good motivation to learn more Japanese. In many cases, announcements follow a pattern so once you have learnt the basic vocabulary you will be able to read similar announcements when they come up in future. Japanese sports writing will really test your abilities as a translator as it is nuanced and sometimes poetic.&#x20;
 

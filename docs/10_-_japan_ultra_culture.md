@@ -1,7 +1,3 @@
----
-description: This chapter describes the basics of Japanese Ultra Culture
----
-
 # Japan Ultra Culture
 
 ## Japan Ultra Culture

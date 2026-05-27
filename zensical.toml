@@ -1,0 +1,67 @@
+[project]
+site_name = "Japan Football Guide"
+site_description = "An in-progress guide to supporting football in Japan in and from overseas."
+site_author = "Stuart Woodward"
+site_url = "https://japanfootball.guide/"
+docs_dir = "docs"
+copyright = "Copyright &copy; 2025 Stuart Woodward"
+
+nav = [
+  {"Introduction" = "index.md"},
+  {"Choosing Your Team" = "choosing-your-team.md"},
+  {"Buying Tickets" = "buying-tickets.md"},
+  {"Attending A Match" = "3_-_attending_a_home_game.md"},
+  {"Watching Online" = "4_-_watching_online.md"},
+  {"Travelling In Japan" = "5_-_travelling_in_japan.md"},
+  {"Making Friends and Connections" = "7_-_making_friends_and_connections_at_the_stadium.md"},
+  {"Club Life" = "8_-_club_life.md"},
+  {"Japan Ultra Culture" = "10_-_japan_ultra_culture.md"},
+  {"Keeping Out Of Trouble" = "11_-_keeping_out_of_trouble.md"},
+  {"Appendix" = [
+    {"Interview Questions" = "appendix_-_interview_questions.md"},
+    {"J League Resources" = "appendix-_j_league_resources_md.md"},
+    {"Japanese Terminology" = "appendix-japanense-terminology.md"},
+    {"Stadiums" = [
+      {"Overview" = "appendix_-_stadiums/index.md"},
+      {"Full List" = "appendix_-_stadiums/full_list_of_stadiums.md"},
+      {"Stadiums A" = "appendix_-_stadiums/stadiums_a.md"},
+      {"Stadiums B" = "appendix_-_stadiums/stadiums_b.md"},
+      {"Stadiums D" = "appendix_-_stadiums/stadiums_d.md"},
+      {"Stadiums E" = "appendix_-_stadiums/stadiums_e.md"},
+    ]},
+  ]},
+  {"Ideas for Future Chapters" = "ideas-for-future-chapters.md"},
+]
+
+[project.theme]
+language = "en"
+features = [
+  "content.code.copy",
+  "navigation.footer",
+  "navigation.indexes",
+  "navigation.instant",
+  "navigation.instant.prefetch",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.top",
+  "navigation.tracking",
+  "search.highlight",
+]
+
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/stuartcw/japanfootball.guide"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/mastodon"
+link = "https://mastodon.social/@stuartcw"

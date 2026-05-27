@@ -1,9 +1,3 @@
----
-description: >-
-  I will list here ideas for chapters which may or may not be added in a future
-  edition.
----
-
 # Ideas for Future Chapters
 
 If you have an interest in any of these topics please let me know. Some of these topics may have sufficient content to be a guide in themselves.
