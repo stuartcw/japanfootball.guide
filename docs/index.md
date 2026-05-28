@@ -12,7 +12,7 @@ Much of this guide refers to the men's J1 division but much of the information c
 
 ## Terminology
 
-There may be some words used which are in Japanese. They will be listed in the Terminology Appendix at the end. Feel free to contact us if anything is unclear.
+There may be some words used which are in Japanese. They will be listed in the [Terminology Appendix](appendix-japanense-terminology.md) at the end. Feel free to contact us if anything is unclear.
 
 ### Contact
 

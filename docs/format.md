@@ -47,8 +47,6 @@ Blah
 The HTML specification
 is maintained by the W3C.
 
-*[HTML]: Hyper Text Markup Language
-*[W3C]:  World Wide Web Consortium
 
 ## Footnotes
 
@@ -56,3 +54,34 @@ Footnotes have a name, a reference[^1], and a definition[^word].
 
 [^1]: This is a footnote definition.
 [^word]: A footnote with the name "word".
+
+## Captions
+
+### Tables
+
+Fruit      | Amount
+---------- | ------
+Apple      | 20
+Peach      | 10
+Banana     | 3
+Watermelon | 1
+
+### Definition Lists
+
+`Lorem ipsum dolor sit amet`
+
+:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
+    tellus non sem sollicitudin, quis rutrum leo facilisis.
+
+`Cras arcu libero`
+
+:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
+    ut eros sed sapien ullamcorper consequat. Nunc ligula ante.
+
+    Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
+    Nam vulputate tincidunt fringilla.
+    Nullam dignissim ultrices urna non auctor.
+
+
+*[HTML]: Hyper Text Markup Language
+*[W3C]:  World Wide Web Consortium
