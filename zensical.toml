@@ -4,7 +4,7 @@ site_description = "An in-progress guide to supporting football in Japan in and 
 site_author = "Stuart Woodward"
 site_url = "https://japanfootball.guide/"
 docs_dir = "docs"
-copyright = "Copyright &copy; 2025 Stuart Woodward"
+copyright = "Copyright &copy; 2026 Stuart Woodward"
 
 nav = [
   {"Introduction" = "index.md"},
@@ -65,3 +65,4 @@ link = "https://github.com/stuartcw/japanfootball.guide"
 [[project.extra.social]]
 icon = "fontawesome/brands/mastodon"
 link = "https://mastodon.social/@stuartcw"
+
