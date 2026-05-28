@@ -1,9 +1,5 @@
 # Buying Tickets
 
-## Note about Covid Times
-
-**The following is possibly only of historic interest at the moment as the reduced number of stadium seats due to Covid and other changes to the ticket allocation to season ticket holders have disrupted the established patterns. Still the best way is to be a season ticket holder or fan club member and follow the club homepage directions every day as to the current situation. There is probably no English language information about this online.**
-
 ## How to get tickets
 
 Looking back, one of the first things that put me off going to a match was that I didn't know where to buy tickets and when or where the team would be playing. Do not let this put you off as it is not so difficult. Compared to when J-League stated it is now very easy to do both.
@@ -12,10 +8,10 @@ Looking back, one of the first things that put me off going to a match was that 
 
 Each club publishes its schedule on its homepage. Fans wait anxiously in the winter pre-season to find out the schedule for the rest of year. Once the clubs finish their backroom negotiations the whole league pretty much all reveals their schedules on the same day.
 
-Usually, the starting times of the first half of the season are decided at first. The rest of the season's information is then updated as the year progresses. It is worth coming back occasionally to look the match schedule to make sure that it hasn't changed. Some latter matches have Sat/Sun undecided until they are finalized, usually without much fanfare. Occasionally matches are rescheduled or held on weekdays days due to the club having an ACL match scheduled for that week or to take the pressure of the schedule earlier in the season.\
-\
-Most matches are played on Saturday or Sunday. There is quite often a single Friday night match and the home side has been known to give away a free t-shirt on that match night in conjunction with a streaming TV company. Wednesday night tends to be reserved for cup matches such as the first Levain League Cup stages and then later The Emperors Cup. \
-\
+Usually, the starting times of the first half of the season are decided at first. The rest of the season's information is then updated as the year progresses. It is worth coming back occasionally to look the match schedule to make sure that it hasn't changed. Some latter matches have Sat/Sun undecided until they are finalized, usually without much fanfare. Occasionally matches are rescheduled or held on weekdays days due to the club having an ACL match scheduled for that week or to take the pressure of the schedule earlier in the season.
+
+Most matches are played on Saturday or Sunday. There is quite often a single Friday night match and the home side has been known to give away a free t-shirt on that match night in conjunction with a streaming TV company. Wednesday night tends to be reserved for cup matches such as the first Levain League Cup stages and then later The Emperors Cup. 
+
 In the Winter and Spring, most weekend kickoffs are in the afternoon whereas summer matches usually start at 7PM. It can be really hot even at 7PM in the summer.  Matches are rarely cancelled for bad weather, even torrential rain which can occur in the Typhoon season. The main consideration for a match delay or postponement is the safety of the fans travelling to the stadium and not the condition of the pitch.
 
 Once you know when are where the match will played you can start planning your trip or your regular supporting activities.&#x20;
