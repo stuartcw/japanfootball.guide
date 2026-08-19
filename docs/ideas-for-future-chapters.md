@@ -11,11 +11,11 @@ If you have an interest in any of these topics please let me know. Some of these
 * Well known people in Japanese Football Culture
 * How to make flags, t-shirts and other supporter goods.
 * J-League Tourism
-  * J-League museum
+  * J-League Museum
 * J-League Memes
 * EPL and other league supporters in Japan.
   * Tokyo Celtic Supporters Group
-  *   There are football fans who do not follow J-League but are fanatical fans of international football.
+  * Japanese football fans who do not follow J-League but are fanatical fans of international football.
 
       ****
 
