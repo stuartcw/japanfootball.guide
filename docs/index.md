@@ -25,3 +25,19 @@ Report any issues or suggestions here:
 [Report an issue or suggestion](https://github.com/stuartcw/japanfootball.guide/issues/new)
 
 Or by email to "info" at this domain.
+
+### License
+
+Copyright © 2026 [Stuart Woodward]. All rights reserved except as expressly granted below.
+
+Except where otherwise noted, this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+You are free to copy, redistribute, and adapt this work for non-commercial purposes, provided that you give appropriate credit, indicate any changes made, and distribute any adaptations under the same license.
+
+For the full license terms, see:
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Any commercial use of this work requires the prior permission of the copyright holder.
+
+Third-party material, where identified, is excluded from this license and remains subject to its respective copyright and licensing terms.
