@@ -42,7 +42,7 @@ Clubs allocate (or if a reduced attendance match, sell) tickets to season ticket
 
 ## Ticket Types
 
-Tickets mostly come in three types.
+Tickets mostly come in several types.
 
 ### Paper Tickets
 
@@ -58,7 +58,11 @@ Some stadiums can't process QR codes directly at the gate and will print out a p
 
 ### Season Tickets
 
-If you plan to go to all the home matches it is really worth getting a season ticket. There are numerous benefits including guaranteed entry when it is difficult to get a ticket. Clubs offer discounts on goods for season ticket/fan club members and preferential entry time before regular ticket buyers. This is the only way to get the front or near the goal in busy stadiums. Recently some clubs have instituted a way for season ticket holders to resell or transfer their ticket to someone else if they can't go to a match.&#x20;
+If you plan to go to all the home matches it is really worth getting a season ticket. There are numerous benefits including guaranteed entry when it is difficult to get a ticket. Clubs offer discounts on goods for season ticket/fan club members and preferential entry time before regular ticket buyers. This is the only way to get the front or near the goal in busy stadiums. Recently some clubs have instituted a way for season ticket holders to resell or transfer their ticket to someone else if they can't go to a match.
+
+### Travel Application Tickets
+
+Tickets can be bought via several travel/tourists focused applications.
 
 ## Convenience Store Quirks
 
